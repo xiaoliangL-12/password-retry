@@ -17,9 +17,3 @@ while True:
 			print('密码错误, 账号已冻结')
 			break
 
-
-
-
-
-
-
